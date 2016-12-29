@@ -1,0 +1,13 @@
+Perceptrons with Simple Feedback and Error Correction Learning
+——————————————————————————————————————————————————————————————————————————————————————
+——————————————————————————————————————————————————————————————————————————————————————
+Part 1: Linear Separator
+Linear separator accuracy: 100.0 %
+Part 2: Simple Feedback Perceptron
+Training accuracy:  100.0 %
+Simple feedback perceptron accuracy: 100.0 %
+Final weights:  [-1.200000000000001, -3.7, 5.9, 3.1999999999999997]
+Part 3: Error Correction Perceptron
+Training accuracy of second classifier:  100.0 %
+Simple error correction accuracy: 93.3333333333 %
+Final weights:  [-0.8799999999995372, -29.84999999999911, 8.149999999999356, 52.480000000006434, -31.60000000000018]
